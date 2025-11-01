@@ -1,0 +1,26 @@
+版本号：1.0.1
+维护者：zasean929
+更新时间：2025-11-01
+
+// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+Sam
+Sammy
+Dean
+John
+Winchester
+Bobby
+Samuel
+Mary
+Michael
+Lucifer
+Singer
+Jo
+Ellen
+Castiel
+Cass
+Crowley
+Charlie
+Ruby
